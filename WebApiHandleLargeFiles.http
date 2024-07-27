@@ -1,0 +1,6 @@
+@WebApiHandleLargeFiles_HostAddress = http://localhost:5243
+
+GET {{WebApiHandleLargeFiles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
